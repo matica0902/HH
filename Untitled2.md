@@ -17,10 +17,7 @@
 ```
 
 
-      File "<ipython-input-1-18bfa9de4ff7>", line 1
-        定義取得時間戳記方法,輸入變數字串回傳Timestamp,
-        ^
-    SyntaxError: invalid syntax
+    
     
 
 
